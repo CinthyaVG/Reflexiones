@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+ Se crea un archivo oculto en el cual se almacenarán los commits del directorio en el que iniciamos el repocitorio.
+Es necesario ya que sin él no se pueden almacenar los commits de nuestros archivos que se encuentran en cierta 
+carpeta.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+ Es diferente porque solo es un area temporal que se crea para almacenar por un lapso pequeño los archivos que se
+desean almacenar más tarde como una versión del archivo que editamos. El working directory es en donde se almacenarían
+los cambios de nuestros archivos y el repositorio donde se almacenan las versiones de los archivos. Es util porque
+permite tener más control sobre lo que deseamos almacenar en nuestro repositorio.
