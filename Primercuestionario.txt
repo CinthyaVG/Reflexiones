@@ -1,0 +1,72 @@
+Reflexión 1.5
+
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+
+    
+ Porque gracias a ello puedo observar cómo era una instrucción o palabra en el archivo de la versión original y
+ ver cómo es en la versión más reciente y así corregir o modificar esa parte a como era anteriormente; comparando
+ ambas versiones se pueden visualizar específicamente los cambios en ellas y viendo lo que ha cambiado se
+ analizan los errores y se puden corregir a como eran en la versión en la que funcionaba correctamente el código.
+
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+
+ 
+ Resulta de gran utilidad porque conociendo el historial completo de un archivo es posible analizar su progreso,
+ saber cuánto ha cambiado y cómo han influido las modificaciones en su funcionamiento, también se tiene un registro
+ de los posibles errores, esto hace que la programación sea más ágil. 
+
+
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having
+ versions automatically saved, like Google
+docs does?
+
+
+
+ Un pro sería que tú puedes tener control sobre cada versión que quieras crear, es decir que decides hasta donde o
+ en qué consiste cada una de las versiones, puedes ponerles nombre y características específicas de cada una, esto
+ permite tener un registro de versiones establecido según el gusto o parecer del programador, mientras que si es
+ automático no puedes realizar un registro adecuado de los cambios que has generado, el programa te hará un registro
+ con las instrucciones que tenga. Un contra es que puede ser posible que no lleves un seguimiento del guardado de
+ versiones y al final trabajar todo en una verión sin hacer un continuo registro, si se hacen automáticamente los
+ guardados no es una preocupación el hecho de guardar y generar versiones porque se harán automáticamente.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others,
+ like Google Docs, treat each file separately?
+
+
+ 
+ Para poder hacer un seguimiento de los cambios en los archivos o seguimiento de versiones.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+    
+ log permite ver los datos de las versiones, como autor, fecha y una descripción de los cambios en el archivo y diff
+ sirve para visualizar los cambios que se han hecho dentro del archivo.
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+
+    
+ Porque así no pierdes las versiones que tal vez funcionaban mejor de lo que funcionó la versión con cambios, así que   aunque se continúen haciendo cambios no tendría la inseguridad de perder veriones anteriores que funcionaran mejor o   que quisiera restaurar. 
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+
+
+ Para guardar mis versiones de programas de Arduino sin que tenga que hacer muchos archivos cada que haga un cambio  nuevo y tener un seguimiento de cómo evolucionan y comparar qué versión funciona mejor.
+ 
