@@ -10,3 +10,7 @@ How is the staging area different from the working directory and the repository?
 desean almacenar más tarde como una versión del archivo que editamos. El working directory es en donde se almacenarían
 los cambios de nuestros archivos y el repositorio donde se almacenan las versiones de los archivos. Es util porque
 permite tener más control sobre lo que deseamos almacenar en nuestro repositorio.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+ Para checar si los archivos que son modificados tienen relación y si la última versión funciona óptimamente.
