@@ -20,3 +20,9 @@ What are some situations when branches would be helpful in keeping your history 
  Cuando quieres hacer una versión de tu archivo en otro idioma o cuando quieres hacer versiones con modificaciones
  experimentales pero no quieres perder tu versión original por si las modificaciones no funcionan y necesitas regresar
  a la versión anterior, o si te parece mejor la versión de otra rama, hacer modificaciones sobre esa version.
+
+How do the diagrams help you visualize the branch structure?
+
+ Te ayuda ya que puedes ver de manera más palpable la organización de los commits y las versiones y ver en qué
+ ramas están almacenados y a partir de qué versiones fueron creados.
+
