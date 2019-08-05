@@ -26,3 +26,12 @@ How do the diagrams help you visualize the branch structure?
  Te ayuda ya que puedes ver de manera más palpable la organización de los commits y las versiones y ver en qué
  ramas están almacenados y a partir de qué versiones fueron creados.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ Se combinan los contenidos de los últimos commits de cada branch en uno solo y se genera un commit nuevo con 
+ caracteristicas de ambos.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ Un pro es que lo hace de manera rápida  y un contra es que no puede corregir las complicaciones que se encuentre en las
+ versiones porque alguien manualmente tiene que decidir qué conservar o quitar.
